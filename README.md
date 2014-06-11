@@ -1,4 +1,4 @@
-TaskList
+TaskList Swift Application
 ========
 
 This project is my first project with Swift Programming Language.
